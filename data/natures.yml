@@ -1,0 +1,99 @@
+- name: "さみしがり"
+  increased_stat: "attack"
+  decreased_stat: "defense"
+
+- name: "いじっぱり"
+  increased_stat: "attack"
+  decreased_stat: "sp_attack"
+
+- name: "やんちゃ"
+  increased_stat: "attack"
+  decreased_stat: "sp_defense"
+
+- name: "ゆうかん"
+  increased_stat: "attack"
+  decreased_stat: "speed"
+
+- name: "ずぶとい"
+  increased_stat: "defense"
+  decreased_stat: "attack"
+
+- name: "わんぱく"
+  increased_stat: "defense"
+  decreased_stat: "sp_attack"
+
+- name: "のうてんき"
+  increased_stat: "defense"
+  decreased_stat: "sp_defense"
+
+- name: "のんき"
+  increased_stat: "defense"
+  decreased_stat: "speed"
+
+- name: "ひかえめ"
+  increased_stat: "sp_attack"
+  decreased_stat: "attack"
+
+- name: "おっとり"
+  increased_stat: "sp_attack"
+  decreased_stat: "defense"
+
+- name: "うっかりや"
+  increased_stat: "sp_attack"
+  decreased_stat: "sp_defense"
+
+- name: "れいせい"
+  increased_stat: "sp_attack"
+  decreased_stat: "speed"
+
+- name: "おだやか"
+  increased_stat: "sp_defense"
+  decreased_stat: "attack"
+
+- name: "おとなしい"
+  increased_stat: "sp_defense"
+  decreased_stat: "defense"
+
+- name: "しんちょう"
+  increased_stat: "sp_defense"
+  decreased_stat: "sp_attack"
+
+- name: "なまいき"
+  increased_stat: "sp_defense"
+  decreased_stat: "speed"
+
+- name: "おくびょう"
+  increased_stat: "speed"
+  decreased_stat: "attack"
+
+- name: "せっかち"
+  increased_stat: "speed"
+  decreased_stat: "defense"
+
+- name: "ようき"
+  increased_stat: "speed"
+  decreased_stat: "sp_attack"
+
+- name: "むじゃき"
+  increased_stat: "speed"
+  decreased_stat: "sp_defense"
+
+- name: "がんばりや"
+  increased_stat: null
+  decreased_stat: null
+
+- name: "すなお"
+  increased_stat: null
+  decreased_stat: null
+
+- name: "てれや"
+  increased_stat: null
+  decreased_stat: null
+
+- name: "まじめ"
+  increased_stat: null
+  decreased_stat: null
+
+- name: "きまぐれ"
+  increased_stat: null
+  decreased_stat: null

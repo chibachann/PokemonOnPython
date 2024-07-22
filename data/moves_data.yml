@@ -1,0 +1,62 @@
+でんきショック:
+  type: でんき
+  power: 40
+  accuracy: 100
+  pp: 30
+  category: とくしゅ
+
+なきごえ:
+  type: ノーマル
+  power: 0
+  accuracy: 100
+  pp: 40
+  category: へんか
+
+しっぽをふる:
+  type: ノーマル
+  power: 0
+  accuracy: 100
+  pp: 30
+  category: へんか
+
+でんじは:
+  type: でんき
+  power: 60
+  accuracy: 100
+  pp: 15
+  category: とくしゅ
+
+はたく:
+  type: ノーマル
+  power: 40
+  accuracy: 100
+  pp: 35
+  category: ぶつり
+
+でんこうせっか:
+  type: ノーマル
+  power: 40
+  accuracy: 100
+  pp: 30
+  category: ぶつり
+
+たいあたり:
+  type: ノーマル
+  power: 40
+  accuracy: 100
+  pp: 35
+  category: ぶつり
+
+からにこもる:
+  type: みず
+  power: 0
+  accuracy: 100
+  pp: 40
+  category: へんか
+
+すいとる:
+  type: くさ
+  power: 20
+  accuracy: 100
+  pp: 25
+  category: とくしゅ
